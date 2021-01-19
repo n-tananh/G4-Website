@@ -1,8 +1,8 @@
 <?php
-	$host = "localhost";
-	$user = "root";
-	$password = "";
-	$database = "tunesource"; 
+	$host = "3.140.182.114";
+	$user = "huyendt";
+	$password = "huyendt";
+	$database = "wp"; 
 	$conn = mysqli_connect($host,$user,$password, $database);
 	// Check connection
 	if (!$conn) {
