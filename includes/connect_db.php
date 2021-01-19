@@ -1,6 +1,6 @@
 <?php
 $host = "3.140.182.114";
-	$user = "root";
+	$user = "huyendt";
 	$password = "huyendt";
 	$database = "wp"; 
 	$conn = mysqli_connect($host,$user,$password, $database);
