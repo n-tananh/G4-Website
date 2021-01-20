@@ -1,0 +1,21 @@
+P1 :-mục đích và phân loại DNS
+    -Cách thức DNS tổ chức và quản lí 
+p2:-khái niệm,phân loại của HTTP,HTTPs, FTP
+   -serverhardwave 
+   - hệ điều hành 
+   - Phần mềm máy chủ 
+====> mối quan hệ 
+P3: -khả năng và mới quan hệ giữa front và back-end ===> mối quan hệ: liên quan đến lớp nào trong OSI 
+P4: Nêu 1 vài công cụ tạo Web online 
+   nêu ra ưu và nhược điểm 
+   Nêu 1 vài công cụ truyền thống 
+===> Sự khác biệt - tính linh hoạt  
+                  - tính năng 
+                  - 
+M1 : đánh giá sự ảnh hưởng của công nghệ Wed truyền thống 
+M2 : ảnh hưởng công cụ tìm kiếm với hiệu năng của trang wed 
+     < làm sao để thiết kế web đạt chuẩn SEO>
+M3 Đánh giá được giới hạn khi sử dụng công cụ, kĩ thuật thiết kế Web thông thường
+VD: -không thay đổi độ rộng màn hình
+    - Bảo mật 
+    -Ux
