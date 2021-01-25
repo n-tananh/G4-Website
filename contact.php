@@ -3,7 +3,7 @@
 	<div class="grid">
 		<h2>Trung tâm trợ giúp</h2>
 		<p>Mọi thắc  mắc vui lòng liên hệ:</p>
-		<p>Hotline: 0974656808</p>
+		<p>Hihiihihih</p>
 		<p><a href="https://www.facebook.com/MyphamOhuiLGvina/">https://www.facebook.com/tananh691/</a></p>
 		<p>Email: tananh691@gmail.com</p>
 	</div>
